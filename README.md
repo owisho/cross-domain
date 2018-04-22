@@ -50,3 +50,5 @@ application/x-www-form-urlencoded  
 put,delete方法的ajax请求        
 发送json格式的ajax请求       
 带自定义头的ajax请求    
+
+### 带cookie的跨域调用Access-Control-Allow-Origin字段需要使用完整域名不能用*通配符
